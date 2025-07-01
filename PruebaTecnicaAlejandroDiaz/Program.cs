@@ -32,7 +32,7 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo
     {
         Title = "Prueba Tecnica ADS",
-        Version = "v1.0.0.0"
+        Version = "v1.0.0.1"
     });
 });
 
